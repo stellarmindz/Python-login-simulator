@@ -1,0 +1,5 @@
+# Simple Login Simulator - Requirements
+# This script uses only Python's standard library (no external packages)
+
+# To run: python SimpleLoginSimulator.py
+# Python 3.6 or higher recommended
